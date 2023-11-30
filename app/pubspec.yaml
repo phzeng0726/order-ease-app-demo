@@ -1,0 +1,56 @@
+name: ordering_system_client_app
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.2 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  meta: ^1.9.1
+
+  # State Management
+  flutter_bloc: ^8.1.3
+  bloc: ^8.1.2
+
+  # Route
+  dio: ^5.3.3
+  go_router: ^12.0.1
+
+  # Auth & Cloud Service
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.13.0
+  firebase_messaging: ^14.7.5
+  uuid: ^4.1.0
+  flutter_verification_code: ^1.1.7
+
+  # Improve
+  flutter_dotenv: ^5.1.0
+  json_annotation: ^4.8.0
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+  logger: ^2.0.2+1
+
+  # Others
+  shared_preferences: ^2.2.2
+  qr_code_scanner: ^1.0.1
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: null
+  json_serializable: ^6.6.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/.env
+    - assets/images/add_picture.png

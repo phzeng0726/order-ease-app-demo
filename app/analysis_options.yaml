@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    avoid_print: false
+    depend_on_referenced_packages: false
+
+analyzer:
+  errors:
+    invalid_annotation_target: ignore
+    non_constant_identifier_names: ignore
+    deprecated_member_use_from_same_package: ignore
+    no_leading_underscores_for_local_identifiers: ignore
