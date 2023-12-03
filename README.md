@@ -31,6 +31,7 @@ flutter gen-l10n
 - 所有的後端事項，可參考我的另一個 Repository [Ordering System Backend](https://github.com/phzeng0726/ordering-system-backend)
 - App 製作
   - Firebase Auth 匿名註冊
+  - E-Mail OTP 驗證
   - 新增/讀取/編輯/刪除 記名**用戶**資訊（搭配 Firebase Auth）
   - 掃描商店管理系統提供的 QR Code ，獲取菜單並進行點餐
   - 新增 訂單
