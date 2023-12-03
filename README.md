@@ -20,7 +20,7 @@
 
 - 與製作商店管理系統的前端工程師合作與溝通，從無到建立，開發總時長**為 1.5 週**。
 
-在執行專案之前，先於 Flutter 的專案路徑:file_folder: `app`執行：
+在執行專案之前，先於 Flutter 的專案路徑 :file_folder: `app`執行：
 
 ```
 flutter gen-l10n
