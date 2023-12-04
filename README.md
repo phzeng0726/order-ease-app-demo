@@ -1,15 +1,15 @@
 # Order Ease App
 
-![cover](screenshots/order_ease_grey.png)
+![cover](screenshots/order_ease_cover.png)
 
 ---
 
 ## 目錄
 
-1. [作品介紹](#作品介紹)
-2. [Demo 影片](#demo-影片)
-3. [負責項目](#負責項目)
-4. [技術清單](#技術清單)
+1. [作品介紹](#作品介紹) - 快速點餐系統（Order Ease 餐點輕鬆訂）介紹。
+2. [Demo 影片](#demo-影片) - 實際 APP 操作影片。
+3. [負責項目](#負責項目) - 詳細列出系統開發過程中負責的前端工作項目。
+4. [技術清單](#技術清單) - 包含了使用的前端技術和相關工具的版本與清單。
 
 ## 作品介紹
 
