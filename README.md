@@ -58,11 +58,10 @@ flutter gen-l10n
       - Model–view–controller(MVC)
     - **Main Dependencies**
       - Bloc (State Management)
-      - dio (API Router)
+      - dio (API Request)
       - go_router (Page Router)
       - dartz & json_annotation (Enhance the application build process and error handling)
     - **All Dependencies**
-
       ![All Dependencies](screenshots/dependencies.png)
 
 - **Cloud Services**
