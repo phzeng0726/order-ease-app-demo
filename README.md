@@ -25,7 +25,7 @@
 
 - 與製作商店管理系統的前端工程師合作與溝通，從無到建立，開發總時長**為 1.5 週**。
 
-在執行專案之前，先於 Flutter 的專案路徑:file_folder: `app`執行：
+在執行專案之前，先於 Flutter 的專案路徑 :file_folder: `app`執行：
 
 ```
 flutter gen-l10n
@@ -40,6 +40,7 @@ flutter gen-l10n
 - 所有的後端事項
 - App 製作
   - Firebase Auth 匿名註冊
+  - E-Mail OTP 驗證
   - 新增/讀取/編輯/刪除 記名**用戶**資訊（搭配 Firebase Auth）
   - 掃描商店管理系統提供的 QR Code ，獲取菜單並進行點餐
   - 新增 訂單
